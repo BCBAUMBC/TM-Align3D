@@ -1,4 +1,4 @@
-# TM-Align3D
+# TM-Align 3D
 
 [Link to TM-Align3D](https://colab.research.google.com/drive/1NDKRAKhoP-4nNgY9BKrkRlqRELzlGVoU#scrollTo=56ba9447)
 ## Overview
