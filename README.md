@@ -1,9 +1,12 @@
 # TM-Align 3D
 
-<img width="908" height="702" alt="image" src="https://github.com/user-attachments/assets/5c50c155-651b-4111-9b22-eebfb44e06c8" />
-<img width="912" height="733" alt="image" src="https://github.com/user-attachments/assets/4c1c2bf5-1ccf-43fe-85f6-6361eb7c3380" />
+<img width="545" height="421" alt="image" src="https://github.com/user-attachments/assets/5c50c155-651b-4111-9b22-eebfb44e06c8" />
+<img width="547" height="440" alt="image" src="https://github.com/user-attachments/assets/4c1c2bf5-1ccf-43fe-85f6-6361eb7c3380" />
 <img width="2151" height="260" alt="image" src="https://github.com/user-attachments/assets/293ddfaf-c248-459a-b4c5-f55147c9c761" />
+
 [Link to TM-Align3D](https://colab.research.google.com/drive/1NDKRAKhoP-4nNgY9BKrkRlqRELzlGVoU#scrollTo=56ba9447)
+
+
 ## Overview
 
 This notebook has two primary functionalities:
