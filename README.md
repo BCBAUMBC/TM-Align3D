@@ -41,19 +41,12 @@ This notebook allows you to:
 - **3D visualization** of aligned structures using interactive molecular viewers (e.g., `py3Dmol` or `nglview`).
 - Copare & visualize in monomer and multimer mode.
 - Sequence alignment.
-- Easy to extend — integrate with AlphaFold models or local PDB datasets.
+- Easy to extend via AlphaFold models or local PDB datasets.
 <img width="908" height="702" alt="image" src="https://github.com/user-attachments/assets/5c50c155-651b-4111-9b22-eebfb44e06c8" />
 <img width="912" height="733" alt="image" src="https://github.com/user-attachments/assets/4c1c2bf5-1ccf-43fe-85f6-6361eb7c3380" />
 <img width="2151" height="260" alt="image" src="https://github.com/user-attachments/assets/293ddfaf-c248-459a-b4c5-f55147c9c761" />
 
 ---
-
-## Requirements
-
-Install the required dependencies before running the notebook:
-
-```bash
-pip install biopython py3Dmol numpy scipy
 
 
 
