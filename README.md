@@ -45,10 +45,10 @@ This notebook allows you to:
 ## Requirements
 
 Install the required dependencies before running the notebook:
-
-```bash
-pip install biopython py3Dmol numpy scipy
-
 <img width="908" height="702" alt="image" src="https://github.com/user-attachments/assets/5c50c155-651b-4111-9b22-eebfb44e06c8" />
 <img width="2151" height="260" alt="image" src="https://github.com/user-attachments/assets/293ddfaf-c248-459a-b4c5-f55147c9c761" />
 <img width="912" height="733" alt="image" src="https://github.com/user-attachments/assets/4c1c2bf5-1ccf-43fe-85f6-6361eb7c3380" />
+```bash
+pip install biopython py3Dmol numpy scipy
+
+
