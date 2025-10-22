@@ -4,7 +4,10 @@
 <img width="547" height="440" alt="image" src="https://github.com/user-attachments/assets/4c1c2bf5-1ccf-43fe-85f6-6361eb7c3380" />
 <img width="2151" height="260" alt="image" src="https://github.com/user-attachments/assets/293ddfaf-c248-459a-b4c5-f55147c9c761" />
 
-[Link to TM-Align3D](https://colab.research.google.com/drive/1NDKRAKhoP-4nNgY9BKrkRlqRELzlGVoU#scrollTo=56ba9447)
+# TM-Align 3D
+
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>](https://colab.research.google.com/drive/1NDKRAKhoP-4nNgY9BKrkRlqRELzlGVoU#scrollTo=56ba9447)
+
 
 
 ## Overview
