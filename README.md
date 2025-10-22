@@ -58,7 +58,7 @@ We demonstrate the notebook with examples comparing the **Human apo ferritin** a
 
 - Compare any two PDB structures.  
 - Compute **TM-score** and **RMSD** in seconds.  
-- **3D visualization** of aligned structures using interactive molecular viewers (e.g., `py3Dmol` or `nglview`).
+- **3D visualization** of aligned structures using interactive molecular viewers (e.g., `py3Dmol`.
 - Compare & visualize in monomer and multimer mode.
 - Sequence alignment.
 - Easy to test your own generated structures.
