@@ -1,7 +1,6 @@
-This repository provides an interactive notebook that compares two protein structures using **TM-score** and **RMSD (Root Mean Square Deviation)**, and visualizes their 3D alignment. It’s ideal for computational biologists, structural bioinformaticians, or anyone working on protein modeling and analysis.
-
+# TM-Align3D
 ---
-Link to TM-Align3D: https://colab.research.google.com/drive/1NDKRAKhoP-4nNgY9BKrkRlqRELzlGVoU#scrollTo=56ba9447
+[Link to TM-Align3D](https://colab.research.google.com/drive/1NDKRAKhoP-4nNgY9BKrkRlqRELzlGVoU#scrollTo=56ba9447)
 ## Overview
 
 This notebook has two primary functionalities:
@@ -26,6 +25,7 @@ We demonstrate the notebook with examples comparing the **Human apo ferritin** a
   _"TM-align: a protein structure alignment algorithm based on the TM-score."_  
   **Nucleic Acids Research, 33(7), 2302–2309.**
 - **Interpretation:**
+  - **TM-score > 0.75** → Indicates strong similarity
   - **TM-score > 0.5** → Generally indicates similar folds.
   - **TM-score < 0.3** → Typically indicates unrelated structures.
   <img width="668" height="174" alt="image" src="https://github.com/user-attachments/assets/8649e27c-e0e8-45f3-9f44-8d3490222639" />
@@ -46,7 +46,7 @@ We demonstrate the notebook with examples comparing the **Human apo ferritin** a
 - **3D visualization** of aligned structures using interactive molecular viewers (e.g., `py3Dmol` or `nglview`).
 - Copare & visualize in monomer and multimer mode.
 - Sequence alignment.
-- Easy to extend via AlphaFold models or local PDB datasets.
+- Easy to test your own generated structures.
 <img width="908" height="702" alt="image" src="https://github.com/user-attachments/assets/5c50c155-651b-4111-9b22-eebfb44e06c8" />
 <img width="912" height="733" alt="image" src="https://github.com/user-attachments/assets/4c1c2bf5-1ccf-43fe-85f6-6361eb7c3380" />
 <img width="2151" height="260" alt="image" src="https://github.com/user-attachments/assets/293ddfaf-c248-459a-b4c5-f55147c9c761" />
