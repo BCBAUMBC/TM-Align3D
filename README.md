@@ -1,15 +1,20 @@
 This repository provides an interactive notebook that compares two protein structures using **TM-score** and **RMSD (Root Mean Square Deviation)**, and visualizes their 3D alignment. It’s ideal for computational biologists, structural bioinformaticians, or anyone working on protein modeling and analysis.
 
 ---
-
+Link to TM-Align3D: https://colab.research.google.com/drive/1NDKRAKhoP-4nNgY9BKrkRlqRELzlGVoU#scrollTo=56ba9447
 ## Overview
 
-Protein structure comparison is essential for understanding evolutionary relationships, structural similarity, and function prediction.  
-This notebook allows you to:
+This notebook has two primary functionalities:
 
-- Compute **TM-score** to measure **global topological similarity** between two protein structures.
-- Compute **RMSD** to quantify **geometric deviation** after structural superposition.
-- Visualize the **3D structural alignment** using molecular visualization libraries.
+1. **Structure Alignment and Comparison** — Calculate **TM-score** and **RMSD** between two protein structures using **ProDy** and **tmtools**.
+2. **3D Visualization** — Display aligned structures interactively with **py3Dmol**, using **biopython** for file handling and sequence parsing.
+
+Our workflow guides users through three stages:  
+- loading or fetching structures,  
+- computing TM-score and RMSD for quantitative comparison, and  
+- visualizing structural overlap in 3D.
+
+We demonstrate the notebook with examples comparing the **Human apo ferritin** and a **Bullfrog M ferritin** to illustrate how TM-score and RMSD reflect global and local similarity between protein folds.
 
 ---
 
