@@ -1,12 +1,13 @@
 # TM-Align 3D
 
-[<img width="547" height="440" alt="TM-Align 3D view 2" src="https://github.com/user-attachments/assets/6e00eb6c-9ef0-4d04-a7b5-5d38d3f8d900" />](https://colab.research.google.com/drive/1NDKRAK<img width="581" height="460" alt="image" src="https://github.com/user-attachments/assets/7d99d689-bad2-4058-8f52-1a5df6121397" />
-hoP-4nNgY9BKrkRlqRELzlGVoU#scrollTo=56ba9447)
+[<img width="547" height="440" alt="TM-Align 3D view 1" src="https://github.com/user-attachments/assets/6e00eb6c-9ef0-4d04-a7b5-5d38d3f8d900" />](https://colab.research.google.com/drive/1NDKRAKhoP-4nNgY9BKrkRlqRELzlGVoU#scrollTo=56ba9447)
+[<img width="581" height="460" alt="TM-Align 3D view 2" src="https://github.com/user-attachments/assets/7d99d689-bad2-4058-8f52-1a5df6121397" />](https://colab.research.google.com/drive/1NDKRAKhoP-4nNgY9BKrkRlqRELzlGVoU#scrollTo=56ba9447)
 
-<img width="2151" height="260" alt="image" src="https://github.com/user-attachments/assets/293ddfaf-c248-459a-b4c5-f55147c9c761" />
+<img width="2151" height="260" alt="Sequence alignment" src="https://github.com/user-attachments/assets/293ddfaf-c248-459a-b4c5-f55147c9c761" />
 
-## Link
+## 🔗 Launch Notebook
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>](https://colab.research.google.com/drive/1NDKRAKhoP-4nNgY9BKrkRlqRELzlGVoU#scrollTo=56ba9447)
+
 
 
 
